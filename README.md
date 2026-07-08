@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HEMANTHHP2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA6FF&icon_color=4DA6FF&text_color=c9d1d9" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=HEMANTHHP2005&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=HEMANTHHP2005&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
 </p>
 
 <p align="center">
