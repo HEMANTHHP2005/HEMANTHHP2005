@@ -62,7 +62,7 @@
 
 <p align="left">
   <!-- Add your real links below and remove this comment -->
-  <a href="linkedin.com/in/hemanth-p-a429b1237"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=4DA6FF" /></a>
+  <a href="https://www.linkedin.com/in/hemanth-p-a429b1237/"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=4DA6FF" /></a>
   <a href="https://hemanthhp2005.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0A23?style=for-the-badge&logo=googlechrome&logoColor=4DA6FF" /></a>
 </p>
 
